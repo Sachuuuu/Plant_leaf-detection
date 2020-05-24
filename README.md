@@ -1,3 +1,5 @@
 # Plant_leaf-detection
 
-To run the model execute run_model(image_name) function. Provide the image path as the image_name. This is developed using YOLO object detection.
+ Detect_leaf("image path","Single") This is for single leaf image
+        
+ Detect_leaf("image path","Multiple") This is for complex/multiple leaves image
